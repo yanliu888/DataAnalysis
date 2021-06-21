@@ -36,7 +36,7 @@ The top earner for 2012 is Gary Altenberg, Lieutenant, Fire Suppression, with th
 The top earner for 2013 is Gregory P Suhr, Chief of Police, with the total pay and benefits of $425815.28 USD.
 The top earner for 2014 is David Shinn, Deputy Chief 3, with the total pay and benefits of $510732.68 USD.
 3. Among all the top 10 earning jobs, the top 3 earning job positions are chief investment officer, chief of fire department and general manager of metropolitan transit authority, across 2011-2014.
-4. Transit operator, special & registered nurse, custodian and firefighter are the top 4 job with most job numbers in SFO during 2011–2014, followed by recreation leader, deputy sheriff, public service aide-public workers, plice officer, and patient care assistant.
+4. Transit operator, special & registered nurse, custodian and firefighter are the top 4 job with most job numbers in SFO during 2011–2014, followed by recreation leader, deputy sheriff, public service aide-public workers, police officer, and patient care assistant.
 
 The main findings of the code can also be found at the post available [here](https://yanliu888.medium.com/san-francisco-sfo-public-department-salary-analysis-de8a338080c0).
 
