@@ -1,4 +1,4 @@
-#### SFO Public Department Salary Analysis
+### SFO Public Department Salary Analysis
 
 ### Table of Contents
 
